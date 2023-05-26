@@ -1,7 +1,6 @@
 package org.example.queue;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.PriorityQueue;
 
 import static java.util.Comparator.comparingInt;
